@@ -1,4 +1,4 @@
-package com.example.loginsignupmvvm2.auth
+package com.example.loginsignupmvvm2.ui.auth
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

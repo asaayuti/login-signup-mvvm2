@@ -1,4 +1,4 @@
-package com.example.loginsignupmvvm2.auth
+package com.example.loginsignupmvvm2.ui.auth
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
